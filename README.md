@@ -5,7 +5,7 @@ ZhenVis is my AI Assistant, currently it is used to watering flowers.
 This is the course project from [Internet of Things](https://www.andrew.cmu.edu/user/mm6/95-733/schedule.html) from [Michael J. McCarthy](https://www.andrew.cmu.edu/user/mm6/).
 
 ## Origin
-ZhenVis is the "real" Jarvis, Zhen Means True in Chinese.
+ZhenVis is the "real" Jarvis, Zhen Means True(真) in Chinese.
 
 ## Version
 | Version | Networking                  | Power Control | AI Water Saving               |
